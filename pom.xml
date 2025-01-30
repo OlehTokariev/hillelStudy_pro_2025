@@ -12,7 +12,6 @@
     <modules>
         <module>ProductCost</module>
         <module>Word-Corrector</module>
-        <module>Fund-Validator</module>
     </modules>
 
     <properties>
