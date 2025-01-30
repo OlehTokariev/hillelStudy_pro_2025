@@ -14,6 +14,7 @@
         <module>Word-Corrector</module>
         <module>Fund-Validator</module>
         <module>Shop-Research</module>
+        <module>Fruit-Box</module>
     </modules>
 
     <properties>
