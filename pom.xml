@@ -15,6 +15,7 @@
         <module>Fund-Validator</module>
         <module>Shop-Research</module>
         <module>Fruit-Box</module>
+        <module>File-Handler</module>
     </modules>
 
     <properties>
