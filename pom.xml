@@ -16,6 +16,7 @@
         <module>Shop-Research</module>
         <module>Fruit-Box</module>
         <module>File-Handler</module>
+        <module>Text-Handler</module>
     </modules>
 
     <properties>
