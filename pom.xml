@@ -17,6 +17,7 @@
         <module>Fruit-Box</module>
         <module>File-Handler</module>
         <module>Text-Handler</module>
+        <module>Multithreading-Fruit</module>
     </modules>
 
     <properties>
