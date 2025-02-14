@@ -19,6 +19,7 @@
         <module>Text-Handler</module>
         <module>Multithreading-Fruit</module>
         <module>Locker-App</module>
+        <module>Names-List</module>
     </modules>
 
     <properties>
