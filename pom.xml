@@ -20,6 +20,7 @@
         <module>Multithreading-Fruit</module>
         <module>Locker-App</module>
         <module>Names-List</module>
+        <module>Names-Map</module>
     </modules>
 
     <properties>
