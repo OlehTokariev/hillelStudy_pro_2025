@@ -21,6 +21,7 @@
         <module>Locker-App</module>
         <module>Names-List</module>
         <module>Names-Map</module>
+        <module>Math-Operations</module>
     </modules>
 
     <properties>
