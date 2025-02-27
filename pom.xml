@@ -21,6 +21,7 @@
         <module>Locker-App</module>
         <module>Names-List</module>
         <module>Names-Map</module>
+        <module>Product-Analysis</module>
     </modules>
 
     <properties>
