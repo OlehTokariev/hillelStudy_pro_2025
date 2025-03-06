@@ -22,6 +22,7 @@
         <module>Names-List</module>
         <module>Names-Map</module>
         <module>Product-Analysis</module>
+        <module>Optional-util</module>
     </modules>
 
     <properties>
