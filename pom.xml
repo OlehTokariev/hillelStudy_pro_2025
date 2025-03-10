@@ -23,6 +23,8 @@
         <module>Names-Map</module>
         <module>Product-Analysis</module>
         <module>Optional-util</module>
+        <module>Lesson19</module>
+        <module>Sorting</module>
     </modules>
 
     <properties>
