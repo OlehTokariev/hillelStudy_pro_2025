@@ -26,6 +26,7 @@
         <module>Optional-util</module>
         <module>Lesson19</module>
         <module>Sorting</module>
+        <module>Graph</module>
     </modules>
 
     <properties>
