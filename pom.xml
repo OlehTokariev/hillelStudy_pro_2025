@@ -26,7 +26,8 @@
         <module>Optional-util</module>
         <module>Lesson19</module>
         <module>Sorting</module>
-        <module>app.PetrolStation</module>
+        <module>PetrolStation</module>
+        <module>Annotation</module>
     </modules>
 
     <properties>
