@@ -24,7 +24,6 @@
         <module>Math-Operations</module>
         <module>Product-Analysis</module>
         <module>Optional-util</module>
-        <module>Lesson19</module>
         <module>Sorting</module>
         <module>PetrolStation</module>
         <module>Annotation</module>
@@ -35,7 +34,13 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
+    <dependencies>
+        <dependency>
+            <groupId>app</groupId>
+            <artifactId>Password-Generator</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
     <build>
         <pluginManagement>
             <plugins>
