@@ -24,10 +24,10 @@
         <module>Math-Operations</module>
         <module>Product-Analysis</module>
         <module>Optional-util</module>
-        <module>Lesson19</module>
         <module>Sorting</module>
         <module>PetrolStation</module>
         <module>Annotation</module>
+        <module>Singleton</module>
     </modules>
 
     <properties>
