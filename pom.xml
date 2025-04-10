@@ -27,6 +27,7 @@
         <module>Sorting</module>
         <module>PetrolStation</module>
         <module>Annotation</module>
+        <module>Factory-Method-Pattern</module>
         <module>Singleton</module>
     </modules>
 
