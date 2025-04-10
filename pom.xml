@@ -28,6 +28,7 @@
         <module>PetrolStation</module>
         <module>Annotation</module>
         <module>Factory-Method-Pattern</module>
+        <module>Singleton</module>
     </modules>
 
     <properties>
@@ -35,7 +36,13 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
+    <dependencies>
+        <dependency>
+            <groupId>app</groupId>
+            <artifactId>Password-Generator</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
     <build>
         <pluginManagement>
             <plugins>
