@@ -28,6 +28,7 @@
         <module>PetrolStation</module>
         <module>Annotation</module>
         <module>Singleton</module>
+        <module>My-DataBase</module>
     </modules>
 
     <properties>
