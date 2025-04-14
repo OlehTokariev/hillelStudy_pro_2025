@@ -27,8 +27,10 @@
         <module>Sorting</module>
         <module>PetrolStation</module>
         <module>Annotation</module>
+        <module>Factory-Method-Pattern</module>
         <module>Singleton</module>
         <module>My-DataBase</module>
+        <module>Grasp-Expert</module>
     </modules>
 
     <properties>
