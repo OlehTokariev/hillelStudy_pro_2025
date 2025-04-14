@@ -29,6 +29,7 @@
         <module>Annotation</module>
         <module>Singleton</module>
         <module>My-DataBase</module>
+        <module>Sales-DB</module>
     </modules>
 
     <properties>
