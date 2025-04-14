@@ -29,6 +29,7 @@
         <module>Annotation</module>
         <module>Factory-Method-Pattern</module>
         <module>Singleton</module>
+        <module>Grasp-Expert</module>
     </modules>
 
     <properties>
