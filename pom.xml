@@ -30,6 +30,7 @@
         <module>Factory-Method-Pattern</module>
         <module>Singleton</module>
         <module>Grasp-Expert</module>
+        <module>DB-Sales</module>
     </modules>
 
     <properties>
