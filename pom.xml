@@ -31,6 +31,7 @@
         <module>Singleton</module>
         <module>My-DataBase</module>
         <module>Grasp-Expert</module>
+        <module>DB-Sales</module>
     </modules>
 
     <properties>
