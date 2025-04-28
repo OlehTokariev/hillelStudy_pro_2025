@@ -32,6 +32,7 @@
         <module>My-DataBase</module>
         <module>Grasp-Expert</module>
         <module>DB-Sales</module>
+        <module>JDBC</module>
     </modules>
 
     <properties>
