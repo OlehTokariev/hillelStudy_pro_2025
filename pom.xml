@@ -33,6 +33,7 @@
         <module>Grasp-Expert</module>
         <module>DB-Sales</module>
         <module>JDBC</module>
+        <module>Testing-LibraryPj</module>
     </modules>
 
     <properties>
