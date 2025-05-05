@@ -34,6 +34,7 @@
         <module>DB-Sales</module>
         <module>Hibernate</module>
         <module>JDBC</module>
+        <module>Testing-LibraryPj</module>
     </modules>
 
     <properties>
