@@ -35,6 +35,7 @@
         <module>Hibernate</module>
         <module>JDBC</module>
         <module>Testing-LibraryPj</module>
+        <module>Logs-Coffee-Queue</module>
     </modules>
 
     <properties>
