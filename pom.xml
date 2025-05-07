@@ -36,6 +36,7 @@
         <module>JDBC</module>
         <module>Testing-LibraryPj</module>
         <module>Logs-Coffee-Queue</module>
+        <module>Client-Server</module>
     </modules>
 
     <properties>
