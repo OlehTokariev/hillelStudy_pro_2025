@@ -43,10 +43,10 @@ public class MainApp {
                     System.out.print("Enter product ID to remove: ");
                     int removeId = scanner.nextInt();
                     cart.removeProductById(removeId);
-                    System.out.println("🗑️ Removed");
+                    System.out.println("Item removed from cart.");
                     break;
                 case 4:
-                    System.out.println("🛒 Products in cart:");
+                    System.out.println("Your current products in cart:");
                     cart.getItems().forEach(System.out::println);
                     break;
                 case 0:
