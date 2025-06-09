@@ -38,6 +38,7 @@
         <module>Logs-Coffee-Queue</module>
         <module>Client-Server</module>
         <module>Servlet-Crud</module>
+        <module>Spring-Customer</module>
     </modules>
 
     <properties>
