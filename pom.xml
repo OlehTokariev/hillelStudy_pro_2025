@@ -38,6 +38,8 @@
         <module>Logs-Coffee-Queue</module>
         <module>Client-Server</module>
         <module>Abandoned-Cart</module>
+        <module>Servlet-Crud</module>
+        <module>Spring-Customer</module>
     </modules>
 
     <properties>
