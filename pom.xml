@@ -37,6 +37,7 @@
         <module>Testing-LibraryPj</module>
         <module>Logs-Coffee-Queue</module>
         <module>Client-Server</module>
+        <module>SpringDataJPA-User</module>
     </modules>
 
     <properties>
